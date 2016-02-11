@@ -1,0 +1,135 @@
+{
+	"data": [
+		{
+			"section-h1": "Veams-CLI",
+			"section-h2": "Knapp und gaaanz easy",
+			"section-content-classes": "is-centered",
+			"section-md": "resources/templates/data/de/pages/veams-cli/general/Intro.md"
+		},
+		{
+			"section-h1": "Was erwartet Euch?!",
+			"section-content-classes": "is-centered",
+			"section-md": "resources/templates/data/de/pages/veams-cli/general/expectation.md"
+		},
+		{
+			"data": [
+				{
+					"section-h1": "Was ist Veams-Cli?"
+				},
+				{
+					"section-h2": "Kurze Definition",
+					"section-content-classes": "is-small is-centered",
+					"section-md": "resources/templates/data/de/pages/veams-cli/introduction/definition.md"
+				},
+				{
+					"section-h2": "Übersicht",
+					"section-content-classes": "is-small is-centered",
+					"section-md": "resources/templates/data/de/pages/veams-cli/introduction/overview.md"
+				},
+				{
+					"section-h2": "Ausbauen",
+					"section-content-classes": "is-small is-centered",
+					"section-md": "resources/templates/data/de/pages/veams-cli/introduction/scaffold.md"
+				}
+			]
+		},
+		{
+			"data": [
+				{
+					"section-h1": "Was ist NodeJS?"
+				},
+				{
+					"section-h2": "Serverseitiges JavaScript",
+					"section-content-classes": "is-small is-centered",
+					"section-md": "resources/templates/data/de/pages/veams-cli/what/what--node.md"
+				},
+				{
+					"section-content-classes": "is-centered",
+					"section-md": "resources/templates/data/de/pages/veams-cli/what/what--img.md"
+				},
+				{
+					"section-h2": "Asynchrones I/O Framework",
+					"section-content-classes": "is-small is-centered",
+					"section-md": "resources/templates/data/de/pages/veams-cli/what/what--async.md"
+				}
+			]
+		},
+		{
+			"data": [
+				{
+					"section-h1": "Was kann man mit NodeJS machen?"
+				},
+				{
+					"section-h2": "Ein paar gute Beispiele ...",
+					"section-content-classes": "is-small is-centered",
+					"section-md": "resources/templates/data/de/pages/veams-cli/node-in-production/production--node.md"
+				},
+				{
+					"section-h2": "oder es geht halt mal daneben!",
+					"section-content-classes": "is-centered",
+					"section-md": "resources/templates/data/de/pages/veams-cli/node-in-production/production--fail.md"
+				}
+			]
+		},
+		{
+			"data": [
+				{
+					"section-h1": "Hello World!"
+				},
+				{
+					"section-h2": "Ganz einfach und simpel",
+					"section-content-classes": "is-small",
+					"section-md": "resources/templates/data/de/pages/veams-cli/hello-world/hello-world--intro.md"
+				},
+				{
+					"section-h2": "Erste Aufgabe",
+					"section-class": "is-exercise is-centered",
+					"section-md": "resources/templates/data/de/pages/veams-cli/exercises/hello-world.md"
+				},
+				{
+					"section-class": "is-centered",
+					"section-md": "resources/templates/data/de/pages/veams-cli/hello-world/hello-world--success.md"
+				}
+			]
+		},
+		{
+			"data": [
+				{
+					"section-h1": "Node Module"
+				},
+				{
+					"section-h2": "Der Kern von NodeJS",
+					"section-content-classes": "is-small is-centered",
+					"section-md": "resources/templates/data/de/pages/veams-cli/modules/modules--intro.md"
+				},
+				{
+					"section-h2": "Require",
+					"section-class": "is-small is-centered",
+					"section-md": "resources/templates/data/de/pages/veams-cli/modules/modules--require.md"
+				},
+				{
+					"section-h2": "Export",
+					"section-class": "is-small is-centered",
+					"section-md": "resources/templates/data/de/pages/veams-cli/modules/modules--export.md"
+				}
+			]
+		},
+		{
+			"data": [
+				{
+					"section-h1": "Node Package Manager (NPM)"
+				},
+				{
+					"section-h2": "Wer oder was ist NPM?",
+					"section-content-classes": "is-small is-centered",
+					"section-md": "resources/templates/data/de/pages/veams-cli/npm/npm--intro.md"
+				},
+				{
+					"section-h2": "Pakete verwalten",
+					"section-content-classes": "is-two-columns",
+					"section-md": "resources/templates/data/de/pages/veams-cli/npm/npm--packages.md"
+				}
+			]
+		}
+	]
+}

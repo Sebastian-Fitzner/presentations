@@ -1,0 +1,4 @@
+- HTTP-Server
+- Statischer Datei-Server
+- Web Chat App
+- Online Games oder andere ähnliche Real-Time Apps

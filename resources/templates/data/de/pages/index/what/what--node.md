@@ -1,0 +1,5 @@
+- Asynchrones nicht-blockierendes I/O Framework
+- Als Kern ist Node in C++ (60%) geschrieben, was zusätzlich noch durch die V8-Engine erweitert wird
+- Der Rest ist JavaScript (40%)
+- Command Line Tool
+- Event-Driven Model

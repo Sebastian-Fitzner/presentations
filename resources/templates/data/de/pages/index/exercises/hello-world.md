@@ -1,0 +1,1 @@
+Gebe über die Konsole erst `Hello` und dann nach einer Sekunde `World` aus!

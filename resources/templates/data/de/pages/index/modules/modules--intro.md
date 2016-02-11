@@ -1,0 +1,1 @@
+NodeJS basiert hauptsächlich auf Module. Deshalb ist es auch einfach, Module zu erstellen.
